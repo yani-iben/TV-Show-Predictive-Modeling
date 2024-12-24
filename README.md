@@ -17,6 +17,8 @@ We collected data from *Emily in Paris* show transcripts to perform sentiment an
 ### Predictive Models
 We applied several predictive models, including time series regression, to predict audience satisfaction as measured by IMDb ratings. Our most successful model was **Random Forest**, which provided strong predictive accuracy.
 
+![Random_Forest](Random_Forest.png)
+
 ### Key Findings
 1. **Emotions Driving Viewer Satisfaction**:
    - **Joy**, **trust**, and **surprise** were the primary emotions shaping viewer satisfaction.
