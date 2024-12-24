@@ -21,7 +21,9 @@ We applied several predictive models, including time series regression, to predi
 1. **Emotions Driving Viewer Satisfaction**:
    - **Joy**, **trust**, and **surprise** were the primary emotions shaping viewer satisfaction.
    - **Fear** and **suspense** were positively correlated with higher ratings, reflecting audience engagement.  
-   - **Disgust** often indicated conflict and contributed to narrative tension.  
+   - **Disgust** often indicated conflict and contributed to narrative tension.
+
+![Emotions_Across_Episodes](Emotions_Across_Episodes.png)
 
 2. **Themes and Sentiments**:
    - Topic modeling revealed recurring themes and helped identify key areas for narrative enhancement.  
