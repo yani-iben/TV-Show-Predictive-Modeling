@@ -28,6 +28,8 @@ We applied several predictive models, including time series regression, to predi
 2. **Themes and Sentiments**:
    - Topic modeling revealed recurring themes and helped identify key areas for narrative enhancement.  
    - Emotional analysis provided a nuanced understanding of audience responses, highlighting the complex interplay of emotions with ratings.
+  
+![IMDB_Ratings_Sentiment](IMDB_Ratings_Sentiment.png)
 
 ### Conclusion
 By leveraging descriptive and predictive analytics, we uncovered insights into the emotional and thematic elements that resonate most with viewers. These findings can guide storytelling decisions for *Emily in Paris* Season 5, enhancing audience satisfaction and ratings.
