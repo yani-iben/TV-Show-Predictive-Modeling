@@ -40,6 +40,7 @@ By leveraging descriptive and predictive analytics, we uncovered insights into t
 - **Data Collection**: Show transcripts
 - **Descriptive Analytics**: Word Cloud, sentiment analysis, topic modeling
 - **Predictive Analytics**: Random Forest, time series regression
+- **Primarily used Python
 - **Metrics**: IMDb ratings as the success criterion
 
 ## Future Work
