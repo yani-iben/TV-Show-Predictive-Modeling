@@ -17,6 +17,8 @@ We collected data from *Emily in Paris* show transcripts to perform sentiment an
 ### Predictive Models
 We applied several predictive models, including time series regression, to predict audience satisfaction as measured by IMDb ratings. Our most successful model was **Random Forest**, which provided strong predictive accuracy.
 
+The image below showcases which features were the most important when impacting IMDB Ratings
+
 ![Random_Forest](Random_Forest.png)
 
 ### Key Findings
